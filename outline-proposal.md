@@ -15,11 +15,12 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * How to use it on MSc level
     * How to use it in courses for practictioners
     
-* Part: **Requirements in Context**
+* Part intro: **Requirements in Context**
   * *What is a requirement?*
     * Different kinds of requirements
     * Requriements at different levels
-    * Requirements as ideas, decisions, system propoerties
+      * Goal-design-scale
+    * Requirements as ideas, decisions, system propoerties, ...
     * Quality vs function
   * *What is Requirements Engineering (RE)?*
     * RE Sub-processes
