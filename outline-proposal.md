@@ -1,6 +1,6 @@
 # Outline Proposal
 
-Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in this issue thread:
+Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in this issue thread: [#1](https://github.com/sirensweden/rebook/issues/1)
 
 ## Tentative structure and contents
 
