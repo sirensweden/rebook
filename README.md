@@ -13,7 +13,7 @@ An open source CC-BY-SA text book for teaching software requirements engineering
 
 * Blekinge Institue of Technology: ???
 
-* Linköping Univerity: ???
+* Linköping University: ???
 
 * ???
 
