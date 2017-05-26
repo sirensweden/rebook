@@ -35,7 +35,11 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * RE and System Architecture
     * RE and SW Design, UX, HCI, Usability...
     * RE and Project Management
+      * states of requriements (-> Release Planning)
+      * funnel from ideas to implementation
     * RE and System Operation (Devops, feedback loops, continuous deployment etc)
+    * RE as a communication process
+      * Communication distances
   * What is special with RE in Systems Engineering?
     * Safety-critical systems
     * Embedded systems
@@ -69,12 +73,35 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * Representing the realtion between input and output
   * Quality and goals
     * Quality requirements
+      * Different kinds of quality
+      * Trade-off among quality requirements
+      * QUPER 
     * Goals modelling
       * helps, hurts
 * Part prio: **Prioritization and Decision-Making**
-
+  * Decisions that need to be taken
+    * What to implement?
+    * When to release?
+    * How much effort on RE? When are we ready with requirements?
+  * Prioritization techniques
+    * Ordinal vs ratio-scale techniques
+    * 100$
+    * sorting
+  * Release planning
+    * simple (naive?) and advanced models
+    * Constraint modelling
+  * Deciding about Quality-levels
+    * QUPER roadmap view
+  
 * Part valid: **Validation and Feedback**
-
+  * Requirements quality
+  * Feedback from stakeholders
+  * Checklists
+  * Inspection
+  * Automatic support to find flaws
+    * NLP, machine learning etc.
+  * Online data collection of system usage
+  
 * Appendix proj: **Projects**
   * Student project proposals in different contexts
 
