@@ -23,13 +23,17 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * Requirements as ideas, decisions, system propoerties, ...
     * Quality vs function
   * *What is Requirements Engineering (RE)?*
-    * RE Sub-processes
-    * RE Project types
+    * Sub-processes of RE
+      * Invent: Elcitation
+      * Persist: Specification
+      * Check: Validation
+      * Decide & Manage
+    * The role of RE in different project types
       * Procurement
-      * Product dev
-      * Bespoke dev
-      * In-house dev
-      * Community dev and open source
+      * Product development
+      * Bespoke development
+      * In-house development
+      * Community development and open source
   * *RE in Software Development*
     * RE and Testing
     * RE and System Architecture
