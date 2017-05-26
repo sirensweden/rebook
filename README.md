@@ -5,7 +5,7 @@ An open source CC-BY-SA text book for teaching software requirements engineering
 
 ## Regional Editors:
 
-* Lund University/LTH: Björn Regnell, Ed. in Chief
+* Lund University/LTH: [Björn Regnell](http://cs.lth.se/bjornregnell/), Ed. in Chief
 
 * Stockholm University/KTH: Eric Olof Svee
 
