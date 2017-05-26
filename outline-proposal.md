@@ -69,6 +69,15 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * Representing the realtion between input and output
   * Quality and goals
     * Quality requirements
-    * Goals
+    * Goals modelling
       * helps, hurts
-* Part 
+* Part prio: **Prioritization and Decision-Making**
+
+* Part valid: **Validation and Feedback**
+
+* Appendix proj: **Projects**
+  * Student project proposals in different contexts
+
+* Appendix bib: **Bibliography**
+
+* Appendix term: **Terminology**
