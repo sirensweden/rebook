@@ -57,10 +57,13 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
 * Part elici: **Elicitation and Innovation**
   * Goals of elicitation
   * Stakeholder analysis
-  * Interacting with stakeholders
-    * interviews
-    * surveys
-    * usage data
+  * Interacting with stakeholders in elicitation 
+    * ??? verlap with validation; focus here on discovery of future system properties ???
+    * Interviews
+    * Demonstration
+    * Surevys
+    * Usability testing
+    * Online data collection of system usage
       * big data
   * Creativity
     * Brainstorming, focus groups
@@ -95,13 +98,18 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
   
 * Part valid: **Validation and Feedback**
   * Requirements quality
-  * Feedback from stakeholders
   * Checklists
   * Inspection
   * Automatic support to find flaws
     * NLP, machine learning etc.
-  * Online data collection of system usage
-  
+  * Feedback from stakeholders in validation 
+    * ??? overlap with elicitation; focus here on finding problems ???
+    * Interviews
+    * Demonstration
+    * Surevys
+    * Usability testing
+    * Online data collection of system usage
+
 * Appendix proj: **Projects**
   * Student project proposals in different contexts
 
