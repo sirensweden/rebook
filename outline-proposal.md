@@ -31,7 +31,12 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
       * In-house dev
       * Community dev and open source
   * *RE in Software Development*
-  * *RE in Systems Engineering*
+    * RE and Testing
+    * RE and System Architecture
+    * RE and SW Design, UX, HCI, Usability...
+    * RE and Project Management
+    * RE and System Operation (Devops, feedback loops, continuous deployment etc)
+  * What is special with RE in Systems Engineering?
     * Safety-critical systems
     * Embedded systems
       * Hardware and Software Co-design
@@ -39,5 +44,31 @@ Suggestions, feedback etc. is very welcome, preferrably preceeding discussion in
     * Human-centric systems
       * Desktop apps
       * Webb apps
+  * Ethics in RE
+    * Make systems that are friendly to users and their planet
+    * Systems that spy on humans
+    * Systems that may kill humans
+    * Engineering ethics frameworks
 
-    
+* Part elici: **Elicitation and Innovation**
+  * Goals of elicitation
+  * Stakeholder analysis
+  * Interacting with stakeholders
+    * interviews
+    * surveys
+    * usage data
+      * big data
+  * Creativity
+    * Brainstorming, focus groups
+  * Innovation
+    * Open innovation
+* Part speci: **Specification and Modelling**
+  * State and data
+    * Representing what the system stores, data, databases
+  * Function and actions
+    * Representing the realtion between input and output
+  * Quality and goals
+    * Quality requirements
+    * Goals
+      * helps, hurts
+* Part 
